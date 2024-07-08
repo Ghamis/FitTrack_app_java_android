@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FitTrack</string>
+    <string name="open_nav">Open Navigation Bar</string>
+    <string name="close_nav">Close Navigation Bar</string>
+    <string name="login">LOGIN</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="register">REGISTER</string>
+    <string name="click_to_login">click_to_login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="setting_fragment">Setting Fragment</string>
+    <string name="share_fragment">Share Fragment</string>
+    <string name="about_fragment">About Fragment</string>
+    <string name="back_muscle">Back Muscle</string>
+    <string name="back">Back</string>
+    <string name="back_excercise">Back Excersise</string>
+    <string name="chest_excercise">Chest Excercise</string>
+    <string name="bicep_excercise">Bicep Excercise</string>
+    <string name="tricep_excercise">Tricep Excercise</string>
+    <string name="shoulder_excercise">Shoulder Excercise</string>
+    <string name="abs_excercise">Abs Excercise</string>
+    <string name="legs_excercise">Legs Excercise</string>
+    <string name="fittrack_app">FitTrack App</string>
+</resources>
