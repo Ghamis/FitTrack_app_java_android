@@ -1,8 +1,3 @@
-Group Member Names	      Group Member Registration Number
-Abdullah Ghamis Bashir	      L1F21BSSE0122
-Syed Razee Abbass Rizvi	      L1F21BSSE0488
-			
-
 FitTrack : Fitness App
 Overview
 FitTrack is an Android application designed to help users track their fitness goals. It allows users to register for an account or log in using their existing credentials. The app features a user-friendly interface with a rotating image banner on the main screen and a scrollable list of muscle groups (back, chest, bicep, tricep, shoulder, legs, abs). Clicking a muscle group button takes the user to a dedicated activity showcasing a list of exercises for that particular muscle group. Selecting an exercise displays a GIF image demonstrating the exercise and a detailed description.
